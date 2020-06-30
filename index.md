@@ -4,8 +4,8 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 
 ## Character Traits
 
-- A H
-- B I J
-- C D K
-- E L M N O
-- F G P
+* A H
+* B I J
+  * C D K
+  * E L M N O
+* F G P
