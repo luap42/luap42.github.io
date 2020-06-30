@@ -11,3 +11,5 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 * F G P
 
 > Get the comfy chair!
+
+<img src="https://i.kym-cdn.com/entries/icons/facebook/000/008/567/DFHg6ZsVoAAo7Av.jpg">
